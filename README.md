@@ -6,6 +6,17 @@
   🌐 Desenvolvedor Web com +10 anos de experiência
 </p>
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=joaoassef&show_icons=true&theme=dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaoassef&theme=dark" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 🚀 Sobre mim
@@ -53,14 +64,6 @@ Tenho experiência em:
 ### 📫 Como me encontrar
 
 - 🌐 Site/Portfólio: em breve
-- 📧 Email: joao.assef@hospitaldeamor.com.br
+- 📧 Email: joaoassef@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/joaoassef](https://linkedin.com/in/joaoassef)
 - 📂 GitHub: [github.com/joaoassef](https://github.com/joaoassef)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaoassef&show_icons=true&theme=dark" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaoassef&theme=dark" />
-</p>
