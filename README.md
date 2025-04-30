@@ -34,14 +34,6 @@ Tenho experiência em:
 
 ---
 
-### 📌 Projetos em destaque
-
-- 🔹 [Sistema de Agendamento para Clínica](https://github.com/joaoassef/agendamento-clinica) – Sistema web para agendamentos de exames médicos e laboratoriais.
-- 🔹 [Sistema Escolar em Django](https://github.com/joaoassef/sistema-escolar) – Aplicação para gestão de alunos, professores e notas.
-- 🔹 [Chat com Classificação de Chamados](https://github.com/joaoassef/chat-suporte) – Sistema de atendimento com categorização e respostas automáticas.
-
----
-
 ### 🛠️ Tecnologias & Ferramentas
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
